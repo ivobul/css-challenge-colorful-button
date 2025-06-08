@@ -1,5 +1,5 @@
 * {
-	box-sizing: border-box;
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
@@ -19,9 +19,9 @@
 
 body {
     align-items: center;
-	background-color: var(--body-bg);
+    background-color: var(--body-bg);
     display: flex;
-	font-family: var(--font-family);
+    font-family: var(--font-family);
     justify-content: center;
     min-height: 100vh;
 }
@@ -46,4 +46,3 @@ body {
     linear-gradient(-115deg, var(--grad-color1), var(--grad-color2), var(--grad-color3), var(--grad-color4), var(--grad-color5)) border-box;
     transform: scale(1.1);
 }
-
