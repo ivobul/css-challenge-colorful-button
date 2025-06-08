@@ -1,1 +1,9 @@
-# css-challenge-colorful-button
+# CSS Challenges - Scrimba
+
+## CSS Challenge - Colorful Button
+
+### Link to the official site
+- [CSS Challenges - Scrimba](https://scrimba.com/css-challenges-c02p)
+
+### Solution
+- [Live Demo](https://ivobul.github.io/css-challenge-colorful-button/)
